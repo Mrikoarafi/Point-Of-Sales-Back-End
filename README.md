@@ -1,7 +1,7 @@
 # Point-Of-Sales-BackEnd
 
-This is an API for Point-of-Sales built to handle the front-end >> https://github.com/Mrikoarafi/Point-Of-Sales-Front-end.
-built with express js. here is the photo.
+This is an API for Point-of-Sales built to handle the front-end >> https://github.com/Mrikoarafi/Point-Of-Sales-Front-end
+built with Express Js. here is the photo.
 
 
 
